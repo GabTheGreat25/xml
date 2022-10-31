@@ -1,0 +1,5 @@
+<?xml encoding="UTF-8"?>
+<!ELEMENT friendsList (friend+,bestFriend)>
+<!ELEMENT friend (name)>
+<!ELEMENT bestFriend (name)>
+<!ELEMENT name (#PCDATA)>

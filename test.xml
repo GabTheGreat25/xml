@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE friendsList SYSTEM "test.dtd">
+<friendsList>
+    <friend>
+        <name>Aaron</name>
+    </friend>
+    <friend>
+        <name>Jess</name>
+    </friend>
+    <friend>
+        <name>Jordan</name>
+    </friend>
+    <bestFriend>
+        <name>Renzo </name>
+    </bestFriend>
+</friendsList>
